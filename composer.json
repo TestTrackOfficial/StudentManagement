@@ -1,0 +1,15 @@
+{
+    "name": "canete/app",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Canete\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John c"
+        }
+    ],
+    "require": {}
+}
